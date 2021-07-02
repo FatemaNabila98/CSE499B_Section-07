@@ -149,11 +149,11 @@
 - what is the address of [Medinova Hospital, Dhanmondi] Hospital
 - Where is [Medinova Hospital, Dhanmondiare] Hospital
 
--Address of [Mirpur general hospitals & diagnostic centre] Hospital 
--[Mirpur general hospitals & diagnostic centre] Hospital
--I need the address of [Mirpur general hospitals & diagnostic centre] Hospital
--what is the address of [Mirpur general hospitals & diagnostic centre] Hospital
--Where is [Mirpur general hospitals & diagnostic centre] Hospital
+- Address of [Mirpur general hospitals & diagnostic centre] Hospital 
+- [Mirpur general hospitals & diagnostic centre] Hospital
+- I need the address of [Mirpur general hospitals & diagnostic centre] Hospital
+- what is the address of [Mirpur general hospitals & diagnostic centre] Hospital
+- Where is [Mirpur general hospitals & diagnostic centre] Hospital
 
 - Address of [Dr Azmal hospital] Hospital 
 - [Dr Azmal hospital] Hospital
@@ -380,11 +380,11 @@
 - [Dr. Lutfun Nahar Begum]
 
 
--can I get the address  of  [Dr. Nirmal Kanti Dey]
--what is the address of [Dr. Nirmal Kanti Dey]
--give me information [Dr. Nirmal Kanti Dey]
--provide me the information of [Dr. Nirmal Kanti Deyppp]
--[Dr. Nirmal Kanti Dey]
+- can I get the address  of  [Dr. Nirmal Kanti Dey]
+- what is the address of [Dr. Nirmal Kanti Dey]
+- give me information [Dr. Nirmal Kanti Dey]
+- provide me the information of [Dr. Nirmal Kanti Deyppp]
+- [Dr. Nirmal Kanti Dey]
 
 
 - can I get the address  of  [Dr. Md. Zakir Hossain]
@@ -405,11 +405,11 @@
 - provide me the information of [Prof. Dr. Zafor Md. Masum]
 - [Prof. Dr. Zafor Md. Masum]
 
--can I get the address  of  [Dr. Rumana Choudhury]
--what is the address of [Dr. Rumana Choudhury]
--give me information [Dr. Rumana Choudhury]
--provide me the information of [Dr. Rumana Choudhury]
--[Dr. Rumana Choudhury]
+- can I get the address  of  [Dr. Rumana Choudhury]
+- what is the address of [Dr. Rumana Choudhury]
+- give me information [Dr. Rumana Choudhury]
+- provide me the information of [Dr. Rumana Choudhury]
+- [Dr. Rumana Choudhury]
 
 - can I get the address  of  [Dr. Tahmina Karim]
 - what is the address of [Dr. Tahmina Karim]
