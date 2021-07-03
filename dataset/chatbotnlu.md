@@ -261,11 +261,41 @@
 - provide me the information of [Prof. Dr. Azizul Bari]
 - [Prof. Dr. Azizul Bari]
 
+- can I get the address  of  [Dr. Md. Arif Hossain]
+- what is the address of [Dr. Md. Arif Hossain]
+- give me information [Dr. Md. Arif Hossain]
+- provide me the information of [Dr. Md. Arif Hossain]
+- [Dr. Md. Arif Hossain]
+
+- can I get the address  of  [Prof. Dr. Md. Ehteshamul Hoque]
+- what is the address of [Prof. Dr. Md. Ehteshamul Hoque]
+- give me information [Prof. Dr. Md. Ehteshamul Hoque]
+- provide me the information of [Prof. Dr. Md. Ehteshamul Hoque]
+- [Prof. Dr. Md. Ehteshamul Hoque]
+
+- can I get the address  of  [Dr. M Safiul Alam]
+- what is the address of [Dr. M Safiul Alam]
+- give me information [Dr. M Safiul Alam]
+- provide me the information of [Dr. M Safiul Alam]
+- [Dr. M Safiul Alam]
+
+- can I get the address  of  [Dr. Mahbubul Alam]
+- what is the address of [Dr. Mahbubul Alam]
+- give me information [Dr. Mahbubul Alam]
+- provide me the information of [Dr. Mahbubul Alam]
+- [Dr. Mahbubul Alam]
+
 - can I get the address  of  [Dr. Khalifa Mahmud Tarik]
 - what is the address of [Dr. Khalifa Mahmud Tarik]
 - give me information [Dr. Khalifa Mahmud Tarik]
 - provide me the information of [Dr. Khalifa Mahmud Tarik]
 - [Dr. Khalifa Mahmud Tarik]
+
+- can I get the address  of  [Dr. Md. Shaukat Ali]
+- what is the address of [Dr. Md. Shaukat Ali]
+- give me information [Dr. Md. Shaukat Ali]
+- provide me the information of [Dr. Md. Shaukat Ali]
+- [Dr. Md. Shaukat Ali]
 
 
 - can I get the address  of  [Prof. Dr. Qamruzzaman Chowdhury]
@@ -306,11 +336,47 @@
 - provide me the information of [Dr. Md. Lokman Hossain]
 - [Dr. Md. Lokman Hossain]
 
+- can I get the address  of  [Dr. Md. Lokman Hossain]
+- what is the address of [Dr. Md. Lokman Hossain]
+- give me information [Dr. Md. Lokman Hossain]
+- provide me the information of [Dr. Md. Lokman Hossain]
+- [Dr. Md. Lokman Hossain]
+
+- can I get the address  of  [Dr. Amirul Islam Bhuyan]
+- what is the address of [Dr. Amirul Islam Bhuyan]
+- give me information [Dr. Amirul Islam Bhuyan]
+- provide me the information of [Dr. Amirul Islam Bhuyan]
+- [Dr. Amirul Islam Bhuyan]
+
+- can I get the address  of  [Dr. Nurun Nahar Fatema Begum]
+- what is the address of [Dr. Nurun Nahar Fatema Begum]
+- give me information [Dr. Nurun Nahar Fatema Begum]
+- provide me the information of [Dr. Nurun Nahar Fatema Begum]
+- [Dr. Nurun Nahar Fatema Begum]
+
+- can I get the address  of  [Dr. Akhter Hamid Parvez]
+- what is the address of [Dr. Akhter Hamid Parvez]
+- give me information [Dr. Akhter Hamid Parvez]
+- provide me the information of [Dr. Akhter Hamid Parvez]
+- [Dr. Akhter Hamid Parvez]
+
+- can I get the address  of  [Dr. Arun Kumar Sharma]
+- what is the address of [Dr. Arun Kumar Sharma]
+- give me information [Dr. Arun Kumar Sharma]
+- provide me the information of [Dr. Arun Kumar Sharma]
+- [Dr. Arun Kumar Sharma]
+
 - can I get the address  of  [Dr. A.F.M. Kamal Uddin]
 - what is the address of [Dr. A.F.M. Kamal Uddin]
 - give me information [Dr. A.F.M. Kamal Uddin]
 - provide me the information of [Dr. A.F.M. Kamal Uddin]
 - [Dr. A.F.M. Kamal Uddin]
+
+- can I get the address  of  [Prof. Dr. Qazi Mushtaq Hussain]
+- what is the address of [Prof. Dr. Qazi Mushtaq Hussain]
+- give me information [Prof. Dr. Qazi Mushtaq Hussain]
+- provide me the information of [Prof. Dr. Qazi Mushtaq Hussain]
+- [Prof. Dr. Qazi Mushtaq Hussain]
 
 
 - can I get the address  of  [Dr. Amina Akter]
@@ -417,41 +483,19 @@
 - provide me the information of [Dr. Tahmina Karim]
 - [Dr. Tahmina Karim]
 
+- can I get the address  of  [Dr. Shahin Akter]
+- what is the address of [Dr. Shahin Akter]
+- give me information [Dr. Shahin Akter]
+- provide me the information of [Dr. Shahin Akter]
+- [Dr. Shahin Akter]
+
 - can I get the address  of  [Prof. Dr. Nazma Begum]
 - what is the address of [Prof. Dr. Nazma Begum]
 - give me information [Prof. Dr. Nazma Begum]
 - provide me the information of [Prof. Dr. Nazma Begum]
 - [Prof. Dr. Nazma Begum]
 
-- can I get the address  of  [Dr. Fatema Begum]
-- what is the address of [Dr. Fatema Begum]
-- give me information [Dr. Fatema Begum]
-- provide me the information of [Dr. Fatema Begum]
-- [Dr. Fatema Begum]
 
-- can I get the address  of  [Dr. Rezaul Hassan]
-- what is the address of [Dr. Rezaul Hassan]
-- give me information [Dr. Rezaul Hassan]
-- provide me the information of [Dr. Rezaul Hassanp]
-- [Dr. Rezaul Hassan]
-
-- can I get the address  of  [Dr. A. M. Shafique]
-- what is the address of [Dr. A. M. Shafique]
-- give me information [Dr. A. M. Shafique]
-- provide me the information of [Dr. A. M. Shafique]
-- [Dr. A. M. Shafique]
-
-- can I get the address  of  [Dr. Rashid Un Nabi]
-- what is the address of [Dr. Rashid Un Nabi]
-- give me information [Dr. Rashid Un Nabi]
-- provide me the information of [Dr. Rashid Un Nabi]
-- [Dr. Rashid Un Nabi]
-
-- can I get the address  of  [Dr. Kaniz Hasina]
-- what is the address of [Dr. Kaniz Hasina]
-- give me information [Dr. Kaniz Hasina]
-- provide me the information of [Dr. Kaniz Hasina]
-- [Dr. Kaniz Hasina]
 
 - can I get the address  of  [Dr.A.F.M. kamal Uddin]
 - what is the address of [Dr.A.F.M. kamal Uddin]
@@ -494,6 +538,12 @@
 - give me information [Prof. Dr. Md. Abdul Mannan]
 - provide me the information of [Prof. Dr. Md. Abdul Mannan]
 - [Prof. Dr. Md. Abdul Mannan]
+
+- can I get the address  of  [Prof. Dr. Tahmina Begum]
+- what is the address of [Prof. Dr. Tahmina Begum]
+- give me information [Prof. Dr. Tahmina Begum]
+- provide me the information of [Prof. Dr. Tahmina Begum]
+- [Prof. Dr. Tahmina Begum
 
 - can I get the address  of  [Dr. Gopen Kumar Kundu]
 - what is the address of [Dr. Gopen Kumar Kundu]
